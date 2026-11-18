@@ -1,0 +1,37 @@
+[
+  {
+    "id": "energia",
+    "nome": "Energia",
+    "cor": "#E39A2D"
+  },
+  {
+    "id": "agua",
+    "nome": "Água",
+    "cor": "#2B86C5"
+  },
+  {
+    "id": "residuos",
+    "nome": "Resíduos",
+    "cor": "#8364B8"
+  },
+  {
+    "id": "biodiversidade",
+    "nome": "Biodiversidade",
+    "cor": "#2F8F53"
+  },
+  {
+    "id": "mobilidade",
+    "nome": "Mobilidade",
+    "cor": "#D2504B"
+  },
+  {
+    "id": "alimentacao",
+    "nome": "Alimentação",
+    "cor": "#8FA82E"
+  },
+  {
+    "id": "educacao",
+    "nome": "Educação ambiental",
+    "cor": "#17A096"
+  }
+]

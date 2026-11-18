@@ -1,0 +1,86 @@
+[
+  {
+    "id": "hu",
+    "nome": "Hospital Universitário",
+    "lat": -22.8428,
+    "lng": -43.2374,
+    "tipo": "predio"
+  },
+  {
+    "id": "ccs",
+    "nome": "Centro de Ciências da Saúde",
+    "lat": -22.8423,
+    "lng": -43.2345,
+    "tipo": "predio"
+  },
+  {
+    "id": "ru",
+    "nome": "Restaurante Universitário",
+    "lat": -22.8447,
+    "lng": -43.2345,
+    "tipo": "predio"
+  },
+  {
+    "id": "jmm",
+    "nome": "Prédio Jorge Machado Moreira",
+    "lat": -22.8471,
+    "lng": -43.2385,
+    "tipo": "predio"
+  },
+  {
+    "id": "ccmn",
+    "nome": "CCMN",
+    "lat": -22.858,
+    "lng": -43.2325,
+    "tipo": "predio"
+  },
+  {
+    "id": "ct",
+    "nome": "Centro de Tecnologia",
+    "lat": -22.8587,
+    "lng": -43.2303,
+    "tipo": "predio"
+  },
+  {
+    "id": "letras",
+    "nome": "Faculdade de Letras",
+    "lat": -22.8605,
+    "lng": -43.2253,
+    "tipo": "predio"
+  },
+  {
+    "id": "parque",
+    "nome": "Parque Tecnológico",
+    "lat": -22.8653,
+    "lng": -43.2188,
+    "tipo": "predio"
+  },
+  {
+    "id": "reitoria",
+    "nome": "Reitoria",
+    "lat": -22.8675,
+    "lng": -43.2152,
+    "tipo": "predio"
+  },
+  {
+    "id": "vila",
+    "nome": "Vila Residencial",
+    "lat": -22.8688,
+    "lng": -43.2185,
+    "tipo": "vila"
+  },
+  {
+    "id": "mangue",
+    "nome": "Manguezal",
+    "lat": -22.8523,
+    "lng": -43.2405,
+    "tipo": "area"
+  },
+  {
+    "id": "horta",
+    "nome": "Área agroecológica",
+    "lat": -22.8672,
+    "lng": -43.2217,
+    "tipo": "area"
+  }
+]

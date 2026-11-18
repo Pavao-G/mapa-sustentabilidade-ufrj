@@ -1,0 +1,355 @@
+[
+  {
+    "id": "p1",
+    "titulo": "Telhados Solares do CT",
+    "eixo": "energia",
+    "local": "ct",
+    "descricao": "Instalação e monitoramento de painéis fotovoltaicos nas coberturas do Centro de Tecnologia, com painel público de geração em tempo real e estudo de retorno do investimento.",
+    "pesquisa": "Integração de geração distribuída em edificações públicas e modelagem de desempenho de sistemas fotovoltaicos em clima tropical úmido.",
+    "professor": "Prof. Ricardo Almeida",
+    "departamento": "Engenharia Elétrica",
+    "unidade": "Escola Politécnica",
+    "contato": "ricardo.almeida@exemplo.ufrj.br",
+    "inicio": "2023",
+    "ods": [
+      "ODS 7",
+      "ODS 11",
+      "ODS 13"
+    ],
+    "links": [
+      {
+        "titulo": "Página do laboratório",
+        "url": "#"
+      },
+      {
+        "titulo": "Currículo Lattes",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "titulo": "Campus Inteligente: medição de energia",
+    "eixo": "energia",
+    "local": "jmm",
+    "descricao": "Rede de medidores inteligentes nos principais prédios do campus para identificar desperdícios e orientar ações de eficiência energética.",
+    "pesquisa": "Internet das Coisas aplicada à gestão energética e análise de séries temporais de consumo.",
+    "professor": "Prof.ª Juliana Ferraz",
+    "departamento": "Engenharia de Sistemas e Computação",
+    "unidade": "COPPE",
+    "contato": "juliana.ferraz@exemplo.ufrj.br",
+    "inicio": "2024",
+    "ods": [
+      "ODS 7",
+      "ODS 9"
+    ],
+    "links": [
+      {
+        "titulo": "Painel de consumo",
+        "url": "#"
+      },
+      {
+        "titulo": "Currículo Lattes",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "titulo": "Hidrogênio Verde no Parque",
+    "eixo": "energia",
+    "local": "parque",
+    "descricao": "Planta-piloto de produção de hidrogênio por eletrólise alimentada por energia solar, em parceria com empresas do Parque Tecnológico.",
+    "pesquisa": "Eletrocatálise, armazenamento de energia e rotas de descarbonização industrial.",
+    "professor": "Prof. Marcos Teixeira",
+    "departamento": "Engenharia Química",
+    "unidade": "Escola de Química",
+    "contato": "marcos.teixeira@exemplo.ufrj.br",
+    "inicio": "2025",
+    "ods": [
+      "ODS 7",
+      "ODS 9",
+      "ODS 13"
+    ],
+    "links": [
+      {
+        "titulo": "Página do projeto",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "titulo": "Água de Chuva no CCS",
+    "eixo": "agua",
+    "local": "ccs",
+    "descricao": "Sistema de captação e reúso de água pluvial para irrigação e descargas sanitárias, com monitoramento da economia de água potável.",
+    "pesquisa": "Manejo sustentável de águas urbanas e soluções baseadas na natureza.",
+    "professor": "Prof.ª Beatriz Lemos",
+    "departamento": "Recursos Hídricos e Meio Ambiente",
+    "unidade": "Escola Politécnica",
+    "contato": "beatriz.lemos@exemplo.ufrj.br",
+    "inicio": "2022",
+    "ods": [
+      "ODS 6",
+      "ODS 11"
+    ],
+    "links": [
+      {
+        "titulo": "Relatório técnico",
+        "url": "#"
+      },
+      {
+        "titulo": "Currículo Lattes",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "titulo": "Observatório da Baía",
+    "eixo": "agua",
+    "local": "ccmn",
+    "descricao": "Coleta periódica e análise da qualidade da água no entorno da Ilha do Fundão, com dados abertos para a comunidade.",
+    "pesquisa": "Oceanografia costeira, poluição por nutrientes e microplásticos em estuários.",
+    "professor": "Prof. Daniel Couto",
+    "departamento": "Oceanografia",
+    "unidade": "Instituto de Geociências",
+    "contato": "daniel.couto@exemplo.ufrj.br",
+    "inicio": "2021",
+    "ods": [
+      "ODS 6",
+      "ODS 14"
+    ],
+    "links": [
+      {
+        "titulo": "Dados abertos",
+        "url": "#"
+      },
+      {
+        "titulo": "Currículo Lattes",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p6",
+    "titulo": "Compostagem do Bandejão",
+    "eixo": "residuos",
+    "local": "ru",
+    "descricao": "Transformação dos resíduos orgânicos do Restaurante Universitário em adubo, usado nos jardins e na área agroecológica do campus.",
+    "pesquisa": "Gestão de resíduos sólidos orgânicos e economia circular em grandes geradores.",
+    "professor": "Prof.ª Camila Rocha",
+    "departamento": "Engenharia Ambiental",
+    "unidade": "Escola Politécnica",
+    "contato": "camila.rocha@exemplo.ufrj.br",
+    "inicio": "2023",
+    "ods": [
+      "ODS 12",
+      "ODS 2"
+    ],
+    "links": [
+      {
+        "titulo": "Página do projeto",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "titulo": "Recicla Eletrônicos",
+    "eixo": "residuos",
+    "local": "ct",
+    "descricao": "Ponto de coleta e oficina de recondicionamento de equipamentos eletrônicos descartados pela universidade e pela comunidade.",
+    "pesquisa": "Logística reversa, recuperação de metais e design para reparabilidade.",
+    "professor": "Prof. Felipe Nogueira",
+    "departamento": "Engenharia Metalúrgica e de Materiais",
+    "unidade": "COPPE",
+    "contato": "felipe.nogueira@exemplo.ufrj.br",
+    "inicio": "2024",
+    "ods": [
+      "ODS 12"
+    ],
+    "links": [
+      {
+        "titulo": "Agendar entrega",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "titulo": "Restauração do Manguezal",
+    "eixo": "biodiversidade",
+    "local": "mangue",
+    "descricao": "Replantio de mudas nativas e monitoramento da fauna em áreas degradadas de manguezal na borda da ilha.",
+    "pesquisa": "Ecologia de manguezais, sequestro de carbono azul e restauração ecológica.",
+    "professor": "Prof.ª Luiza Martins",
+    "departamento": "Ecologia",
+    "unidade": "Instituto de Biologia",
+    "contato": "luiza.martins@exemplo.ufrj.br",
+    "inicio": "2020",
+    "ods": [
+      "ODS 14",
+      "ODS 15",
+      "ODS 13"
+    ],
+    "links": [
+      {
+        "titulo": "Seja voluntário",
+        "url": "#"
+      },
+      {
+        "titulo": "Currículo Lattes",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "titulo": "Inventário das Árvores do Campus",
+    "eixo": "biodiversidade",
+    "local": "letras",
+    "descricao": "Mapeamento georreferenciado das árvores do Fundão, com espécie, porte e estado de saúde, disponível em aplicativo aberto.",
+    "pesquisa": "Botânica urbana, serviços ecossistêmicos e ciência cidadã.",
+    "professor": "Prof. André Siqueira",
+    "departamento": "Botânica",
+    "unidade": "Instituto de Biologia",
+    "contato": "andre.siqueira@exemplo.ufrj.br",
+    "inicio": "2022",
+    "ods": [
+      "ODS 11",
+      "ODS 15"
+    ],
+    "links": [
+      {
+        "titulo": "Aplicativo",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "titulo": "Pedala Fundão",
+    "eixo": "mobilidade",
+    "local": "reitoria",
+    "descricao": "Estudo e implantação de rede de ciclovias e estações de bicicletas compartilhadas ligando os principais centros do campus.",
+    "pesquisa": "Planejamento de transportes, mobilidade ativa e comportamento de viagem.",
+    "professor": "Prof.ª Renata Pires",
+    "departamento": "Engenharia de Transportes",
+    "unidade": "COPPE",
+    "contato": "renata.pires@exemplo.ufrj.br",
+    "inicio": "2023",
+    "ods": [
+      "ODS 11",
+      "ODS 3"
+    ],
+    "links": [
+      {
+        "titulo": "Mapa das ciclovias",
+        "url": "#"
+      },
+      {
+        "titulo": "Currículo Lattes",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "titulo": "Ônibus Elétrico Interno",
+    "eixo": "mobilidade",
+    "local": "hu",
+    "descricao": "Operação experimental de ônibus elétricos no circuito interno, ligando o Hospital Universitário aos demais prédios.",
+    "pesquisa": "Eletrificação de frotas, baterias e análise de ciclo de vida de veículos.",
+    "professor": "Prof. Gustavo Ramos",
+    "departamento": "Engenharia Mecânica",
+    "unidade": "Escola Politécnica",
+    "contato": "gustavo.ramos@exemplo.ufrj.br",
+    "inicio": "2025",
+    "ods": [
+      "ODS 7",
+      "ODS 11",
+      "ODS 13"
+    ],
+    "links": [
+      {
+        "titulo": "Horários e trajeto",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p12",
+    "titulo": "Horta Agroecológica Universitária",
+    "eixo": "alimentacao",
+    "local": "horta",
+    "descricao": "Horta comunitária mantida por estudantes e moradores, com oficinas de cultivo e doação da produção.",
+    "pesquisa": "Agroecologia urbana, segurança alimentar e extensão comunitária.",
+    "professor": "Prof.ª Patrícia Moura",
+    "departamento": "Nutrição Social",
+    "unidade": "Instituto de Nutrição",
+    "contato": "patricia.moura@exemplo.ufrj.br",
+    "inicio": "2021",
+    "ods": [
+      "ODS 2",
+      "ODS 12"
+    ],
+    "links": [
+      {
+        "titulo": "Calendário de oficinas",
+        "url": "#"
+      },
+      {
+        "titulo": "Currículo Lattes",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "titulo": "Trilhas da Ilha",
+    "eixo": "educacao",
+    "local": "vila",
+    "descricao": "Roteiros de educação ambiental pelo campus para escolas públicas do entorno, conduzidos por estudantes de licenciatura.",
+    "pesquisa": "Educação ambiental crítica e divulgação científica.",
+    "professor": "Prof. Thiago Barreto",
+    "departamento": "Didática",
+    "unidade": "Faculdade de Educação",
+    "contato": "thiago.barreto@exemplo.ufrj.br",
+    "inicio": "2022",
+    "ods": [
+      "ODS 4",
+      "ODS 15"
+    ],
+    "links": [
+      {
+        "titulo": "Agendar visita",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "titulo": "Inventário de Carbono da UFRJ",
+    "eixo": "educacao",
+    "local": "parque",
+    "descricao": "Cálculo anual das emissões de gases de efeito estufa da universidade e proposta de metas de redução.",
+    "pesquisa": "Contabilidade de carbono, políticas climáticas e planejamento energético.",
+    "professor": "Prof.ª Fernanda Assis",
+    "departamento": "Planejamento Energético",
+    "unidade": "COPPE",
+    "contato": "fernanda.assis@exemplo.ufrj.br",
+    "inicio": "2024",
+    "ods": [
+      "ODS 13",
+      "ODS 12"
+    ],
+    "links": [
+      {
+        "titulo": "Relatório anual",
+        "url": "#"
+      }
+    ]
+  }
+]
